@@ -101,3 +101,27 @@ section h3 {
 .ceo {
   margin-bottom: 1.5em;
 }
+.box1 img {
+  width: 450px;
+  height: 350px;
+  margin-top: 2em;
+}
+.box2 {
+  width: 450px;
+  height: 150px;
+}
+.box2 h4 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.3em;
+  font-weight: bold;
+  padding-bottom: 0.5em;
+  color: #25a2c3;
+  line-height: 1;
+  padding-top: 2em;
+}
+.box2 p {
+  font-size: 1.3em;
+  padding-inline: 3em;
+  line-height: 1.5;
+  padding-bottom: 1.5em;
+}
