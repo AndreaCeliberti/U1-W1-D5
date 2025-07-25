@@ -7,7 +7,9 @@ header {
   text-align: center;
   height: 10em;
 }
-img {
-  margin-top: 3.5em;
-  height: 3em;
+.logoepic {
+  padding-top: 1em;
+}
+nav {
+  background-image: url(/images/banner.jpg);
 }
