@@ -59,7 +59,7 @@ main div img {
 }
 main div h2 {
   font-family: "Montserrat", sans-serif;
-  font-size: 2em;
+  font-size: 1.3em;
   font-weight: bold;
   padding-bottom: 0.5em;
   color: #25a2c3;
@@ -75,6 +75,29 @@ main div p {
 section {
   background-color: #d8381c;
   height: 25em;
+  color: white;
 }
-section h3 p {
+section h3 {
+  font-size: 2.7em;
+  font-weight: bold;
+  padding-bottom: 0.5em;
+  color: #ffffff;
+  line-height: 1;
+  padding-top: 1.8em;
+}
+.comment {
+  color: #ffffff;
+  font-size: 1.4em;
+  line-height: 1.5;
+  padding-top: 2em;
+  font-style: italic;
+}
+.mario {
+  font-size: 2em;
+  color: #ffffff;
+  line-height: 1;
+  padding-top: 2em;
+}
+.ceo {
+  margin-bottom: 1.5em;
 }
