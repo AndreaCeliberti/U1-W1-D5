@@ -197,3 +197,27 @@ article {
   line-height: 1.5;
   padding-bottom: 1.5em;
 }
+footer {
+  height: 300px;
+  background-color: #26a6cb;
+  color: white;
+}
+address h4 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+  padding-bottom: 0.5em;
+  line-height: 1;
+  padding-top: 2em;
+}
+address p {
+  font-size: 1em;
+  padding-inline: 3em;
+  line-height: 1.5;
+  padding-bottom: 1.5em;
+}
+address p i {
+  font-size: 1em;
+  color: white;
+  text-decoration: none;
+}
