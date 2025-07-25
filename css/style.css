@@ -1,0 +1,13 @@
+/* Your styles here */
+* {
+  box-sizing: border-box;
+}
+header {
+  background-color: black;
+  text-align: center;
+  height: 10em;
+}
+img {
+  margin-top: 3.5em;
+  height: 3em;
+}
